@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # The MyEnumerable module provides the #all?, #any?, and #filter methods.
 # It requires the #each method to be defined.
 module MyEnumerable
